@@ -2,8 +2,8 @@
 
 ## My Organizations
 - [Organization 1](https://github.com/org1)
-- [Organization 2](https://github.com/ComWith)
-- [Organization 2](https://github.com/Lucky-thon)
+- [ComWith](https://github.com/ComWith)
+- [Lucky-thon](https://github.com/Lucky-thon)
 <!--
 **smiinii/smiinii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
