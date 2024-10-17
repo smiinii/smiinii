@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ## My Organizations
-- [Organization 1](https://github.com/org1)
+- [TecheerPartners](https://github.com/2024-TecheerPartners-teamA)
 - [ComWith](https://github.com/ComWith)
 - [Lucky-thon](https://github.com/Lucky-thon)
 <!--
