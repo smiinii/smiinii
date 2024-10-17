@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+## My Organizations
+- [Organization 1](https://github.com/org1)
+- [Organization 2](https://github.com/org2)
+
 <!--
 **smiinii/smiinii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
