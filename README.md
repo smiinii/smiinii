@@ -1,7 +1,7 @@
 ## Hi there, I'm Seoungmin Lee 👋
 
 ### My Activity
-- [TecheerPartners](https://github.com/202--teamA)
+- [TecheerPartners](https://github.com/2024-TecheerPartners-teamA)
 - [ComWith](https://github.com/ComWith)
 
 ### My Project
