@@ -5,10 +5,6 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/smiinii/smiinii/output/snake.svg" alt="Snake animation" />
-
----
-
 <h3 align="center">🔥 My GitHub Streak 🔥</h3>
 <p align="center">
   <a href="https://github.com/smiinii">
@@ -22,6 +18,10 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smiinii&layout=compact&show_icons=true&show_owner=false&hide_title=false&theme=radical&hide=" />
   </a>
 </p>
+
+---
+
+<img src="https://raw.githubusercontent.com/smiinii/smiinii/output/snake.svg" alt="Snake animation" />
 
 ---
 
