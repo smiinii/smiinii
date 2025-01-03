@@ -1,11 +1,16 @@
-## Hi there, I'm Seoungmin Lee 👋
+<div align="center">
+  <h3>👨‍💻 제 깃허브에 방문하신 것을 환영합니다! 🚀</h3>
+  <img src="https://profile-counter.glitch.me/smiinii/count.svg?" alt="프로필 조회 수" />
+</div>
 
-### My Activity
-- [TecheerPartners](https://github.com/2024-TecheerPartners-teamA)
-- [ComWith](https://github.com/ComWith)
+---
 
-### My Project
-- [Protect 1 - Lucky-thon](https://github.com/Lucky-thon)
+<h3 align="center">🔥 My GitHub Streak 🔥</h3>
+<p align="center">
+  <a href="https://github.com/smiinii">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smiinii&theme=radical&center=true" />
+  </a>
+</p>
 
 <h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
@@ -14,12 +19,7 @@
   </a>
 </p>
 
-<h3 align="center">🔥 My GitHub Streak 🔥</h3>
-<p align="center">
-  <a href="https://github.com/smiinii">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smiinii&theme=radical&center=true" />
-  </a>
-</p>
+---
 
 <h2 align="center">🔍 Back Tech Stack 🔍</h2>
 <p align="center">
@@ -59,6 +59,8 @@
   <a href="#"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="Zoom" /></a>
 </p>
+
+
 
 <!--
 <h3 align="center">💡 My Git Stats 💡</h3>
