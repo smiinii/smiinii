@@ -5,6 +5,10 @@
 
 ---
 
+<img src="https://raw.githubusercontent.com/smiinii/smiinii/output/snake.svg" alt="Snake animation" />
+
+---
+
 <h3 align="center">🔥 My GitHub Streak 🔥</h3>
 <p align="center">
   <a href="https://github.com/smiinii">
