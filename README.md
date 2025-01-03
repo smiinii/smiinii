@@ -5,7 +5,7 @@
 
 ---
 
-<img src="https://raw.githubusercontent.com/smiinii/smiinii/output/snake.svg" alt="Snake animation" />
+<img src="https://smiinii.github.io/smiinii/snake.svg" alt="Snake animation" />
 
 ---
 
