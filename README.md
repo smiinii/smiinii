@@ -14,15 +14,12 @@
   </a>
 </p>
 
-<h3 align="center">💡 My Git Stats 💡</h3>
+<h3 align="center">🔥 My GitHub Streak 🔥</h3>
 <p align="center">
   <a href="https://github.com/smiinii">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=smiinii&hide=&hide_title=false&show_icons=true&include_all_commits=true&theme=radical" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smiinii&theme=radical&center=true" />
   </a>
 </p>
-
-[![smiinii's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=smiinii&theme=radical&center=true)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <h2 align="center">🔍 Back Tech Stack 🔍</h2>
 <p align="center">
@@ -63,4 +60,11 @@
   <a href="#"><img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="Zoom" /></a>
 </p>
 
-
+<!--
+<h3 align="center">💡 My Git Stats 💡</h3>
+<p align="center">
+  <a href="https://github.com/smiinii">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=smiinii&hide=&hide_title=false&show_icons=true&include_all_commits=true&theme=radical" />
+  </a>
+</p>
+-->
