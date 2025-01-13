@@ -32,6 +32,8 @@
   <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Celery-3788C1?style=for-the-badge&logo=celery&logoColor=white" alt="Celery" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /></a>
 </p>
 
 <h2 align="center">💿 DataBase Tech Stack 💿</h2>
@@ -46,6 +48,8 @@
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
   <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS S3" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS EC2" /></a>
 </p>
 
 <h2 align="center">🛠 Tools 🛠</h2>
