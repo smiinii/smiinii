@@ -1,22 +1,26 @@
-<div align="center">
-  <h3>👨‍💻 제 깃허브에 방문하신 것을 환영합니다! 🚀</h3>
-  <img src="https://profile-counter.glitch.me/smiinii/count.svg?" alt="프로필 조회 수" />
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:203A43&height=220&section=header&text=Welcome%20to%20Smini's%20GitHub%20&fontSize=38&fontColor=FFFFFF&fontAlignY=40&desc=&animation=fadeIn" alt="header banner">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1&pause=999999&color=00D8FF&center=true&vCenter=true&width=700&lines=Clean+Code.+Simple+Logic.+Solid+Backend." alt="typing line">
+</p>
 
 ---
 
-<h3 align="center">🔥 My GitHub Streak 🔥</h3>
-<p align="center">
-  <a href="https://github.com/smiinii">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smiinii&theme=radical&center=true" />
-  </a>
-</p>
+<h3 align="center">📊 My GitHub Stats 📊</h3>
 
-<h3 align="center">💡 My Most Used Languages 💡</h3>
 <p align="center">
-  <a href="https://github.com/smiinii">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smiinii&layout=compact&show_icons=true&show_owner=false&hide_title=false&theme=radical&hide=" />
-  </a>
+  <table align="center">
+    <tr>
+      <td align="center" style="padding: 0 15px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=smiinii&theme=radical&hide_border=false" alt="streak stats" width="420"/>
+      </td>
+      <td align="center" style="padding: 0 15px;">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smiinii&layout=compact&show_icons=true&theme=radical&hide_border=false&langs_count=6" alt="top langs" width="360"/>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
