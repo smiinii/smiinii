@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=1&pause=999999&color=00D8FF&center=true&vCenter=true&width=700&lines=Clean+Code.+Simple+Logic.+Solid+Backend." alt="typing line">
+  <img src="assets/typing_banner_horizontal.gif" alt="Clean Code. Simple Logic. Solid Backend." width="900">
 </p>
 
 ---
