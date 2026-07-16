@@ -2,10 +2,6 @@
   <img src="assets/typing_banner_thin.gif" alt="Clean Code. Simple Logic. Solid Backend." width="900">
 </p>
 
----
-
-<h3 align="center"> My GitHub Stats </h3>
-
 <p align="center">
   <table align="center">
     <tr>
