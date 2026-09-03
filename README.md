@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="assets/typing_banner_thin.gif" alt="Clean Code. Simple Logic. Solid Backend." width="900">
-</p>
-
-<p align="center">
   <table align="center">
     <tr>
       <td align="center" style="padding: 0 15px;">
